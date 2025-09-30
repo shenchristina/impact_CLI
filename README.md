@@ -8,3 +8,5 @@ A simple Java command-line interface (CLI) that prints a personalized company na
 2. Run file with company name:
    java -cp .:picocli-4.7.7.jar Impact Impact.com
 
+GITHUB LINK: https://github.com/shenchristina/impact_CLI
+
